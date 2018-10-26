@@ -1,0 +1,76 @@
+/*Absolute postion*/
+.b1{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    
+}
+.b2{
+    position: absolute;
+    left: 210px;
+    top: 80px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    
+}
+.b3{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+    
+}
+/*relative postion*/
+.bx1{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    
+}.bx2{
+    position: relative;
+    left: 200px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    
+}
+.bx3{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+}
+
+/*Fixed postion*/
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    
+}
+.box2{
+    position: static;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color: antiquewhite;
+}
+
+/*Div 4*/
+.box11{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    
+}
+.box12{
+    position: absolute;
+    bottom: 200px;
+    right: 300px;
+    height: 200px;
+    width: 200px;
+    background-color: blue;
